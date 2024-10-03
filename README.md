@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/Mudathir-Salahudeen/continous_integration/actions/workflows/testing_CI.yml/badge.svg)](https://github.com/Mudathir-Salahudeen/continous_integration/actions/workflows/testing_CI.yml)
